@@ -234,7 +234,7 @@ Remember, when you commit a code, it is <span style="color:#e49436">frozen</span
 
 </ul>
 
-<span class="fragment">##### Generalised guidelines are <span style="color:#e49436">more than welcome!</span></span>
+<span class="fragment"><span style="font-size:1.6em; color:gray">Generalised guidelines are <span style="color:#e49436">more than welcome!</span></span></span>
 
 ---
 
